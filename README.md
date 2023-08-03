@@ -1,3 +1,5 @@
+Proje link: https://react-case-study-project.netlify.app/
+
 Projemde data.json isimli bir dosya vardır.
 
 Bu dosyada veriler tutulur ve bu veriler App componentinde çağırılır.
